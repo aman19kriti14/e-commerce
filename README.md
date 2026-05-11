@@ -266,19 +266,3 @@ Successfully updated 3 order(s) to PROCESSING.
 }
 ```
 
----
-
-## Postman Collection
-
-A Postman collection is included in the repository root:
-```
-ecommerce-orders.postman_collection.json
-```
-
-**Import steps:**
-```
-1. Open Postman
-2. Click "Import"
-3. Select ecommerce-orders.postman_collection.json
-4. All endpoints are ready to use at localhost:8080
-```
