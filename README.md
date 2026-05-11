@@ -104,7 +104,7 @@ http://localhost:8080/swagger-ui.html
 
 ### Base URL
 ```
-http://localhost:8080/api/orders
+http://localhost:8080
 ```
 
 ---
